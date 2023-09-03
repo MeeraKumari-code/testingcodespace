@@ -1,0 +1,15 @@
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.csproj.AssemblyReference.cache
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.AssemblyInfoInputs.cache
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.AssemblyInfo.cs
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.csproj.CoreCompileInputs.cache
+/workspaces/testingcodespace/LoanApp/bin/Debug/net7.0/LoanApp
+/workspaces/testingcodespace/LoanApp/bin/Debug/net7.0/LoanApp.deps.json
+/workspaces/testingcodespace/LoanApp/bin/Debug/net7.0/LoanApp.runtimeconfig.json
+/workspaces/testingcodespace/LoanApp/bin/Debug/net7.0/LoanApp.dll
+/workspaces/testingcodespace/LoanApp/bin/Debug/net7.0/LoanApp.pdb
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.dll
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/refint/LoanApp.dll
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.pdb
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/LoanApp.genruntimeconfig.cache
+/workspaces/testingcodespace/LoanApp/obj/Debug/net7.0/ref/LoanApp.dll

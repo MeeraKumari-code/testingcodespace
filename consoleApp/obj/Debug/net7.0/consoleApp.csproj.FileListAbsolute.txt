@@ -1,0 +1,15 @@
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.csproj.AssemblyReference.cache
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfoInputs.cache
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfo.cs
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.csproj.CoreCompileInputs.cache
+/workspaces/testingcodespace/consoleApp/bin/Debug/net7.0/consoleApp
+/workspaces/testingcodespace/consoleApp/bin/Debug/net7.0/consoleApp.deps.json
+/workspaces/testingcodespace/consoleApp/bin/Debug/net7.0/consoleApp.runtimeconfig.json
+/workspaces/testingcodespace/consoleApp/bin/Debug/net7.0/consoleApp.dll
+/workspaces/testingcodespace/consoleApp/bin/Debug/net7.0/consoleApp.pdb
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.dll
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/refint/consoleApp.dll
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.pdb
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/consoleApp.genruntimeconfig.cache
+/workspaces/testingcodespace/consoleApp/obj/Debug/net7.0/ref/consoleApp.dll
