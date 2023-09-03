@@ -1,0 +1,28 @@
+name: dot net  action demo
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 5.0.100
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Build
+        run: dotnet build --no-restore
+      - name: Test
+        run: dotnet test --no-restore --verbosity normal
+      - name: Publish
+        run: dotnet publish --no-restore --no-build --configuration Release --output ./publish
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: dotnet-app
+          path: ./publish
+```
